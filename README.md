@@ -1,8 +1,8 @@
 
-create table  faculty
+create table  faculty\n
 (
-facultyid int primary key ,                                                                                                                                                                                                                                                                                                                      facultyname varchar(12),
- facultyaddress varchar(12),
+facultyid int primary key ,                                                                                                                                             facultyname varchar(12),
+facultyaddress varchar(12),
 mobile  varchar(15) unique,
 email   varchar(12)unique,
 username  varchar(12)unique,
