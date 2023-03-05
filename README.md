@@ -1,11 +1,11 @@
 # -diligent-quiet-9486
-<h4>Course monitoring -System
+Course monitoring -System
 ther is two users in this System
-Adminstrator
-faculty<h4>
+1. Adminstrator
+2. faculty
 
 ============================
-<p>admin can performe these task :-
+Admin can performe these task :-
 1:-course-related operations 
 2:-batch-related operations 
 3:-Faculty.-related operations 
@@ -13,18 +13,18 @@ faculty<h4>
 5:-Course plan--related operations 
 6:-View the Day wise update of every batch. 
 7:-Generate Reports for every batch.
- 8:-not to choose any option.</p>
+8:-not to choose any option.
 ===============================
-<p>faculty can perform -
+faculty can perform -
 1:-View the Course Plan
 2:-Fill up the day wise planner. 
 3:-Update his/her password.
 =============================
 tech :- 
 sql java 
- tools git Mysql sts</p>
+tools git Mysql sts
 
-<h5>+----------+--------------+------+-----+---------+-------+
++----------+--------------+------+-----+---------+-------+
 | Field    | Type         | Null | Key | Default | Extra |
 +----------+--------------+------+-----+---------+-------+
 | username | varchar(255) | YES  |     | NULL    |       |
@@ -77,4 +77,4 @@ desc batch;
 | numberofStudents | int         | YES  |     | NULL    |       |
 | batchstartDate   | date        | YES  |     | NULL    |       |
 | duration         | varchar(12) | YES  |     | NULL    |       |
-+------------------+-------------+------+-----+---------+-------+</h5>
++------------------+-------------+------+-----+---------+-------+
