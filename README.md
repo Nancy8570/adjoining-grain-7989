@@ -19,3 +19,7 @@ faculty can perform -
 tech stack :- 
 sql, java , jdbc
 
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/Nancy8570/adjoining-grain-7989/blob/main/ER-DIAGRAM.png">
+
