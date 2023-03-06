@@ -7,11 +7,20 @@ ther is two users in this System
 
 Admin can performe these task :-
 1:-course-related operations 
+<br/>
 2:-batch-related operations 
+<br/>
 3:-Faculty.-related operations 
+<br/>
 4:-Allocate faculty to a batch 
 <br/>
-5:-Course plan--related operations 6:-View the Day wise update of every batch. 7:-Generate Reports for every batch. 8:-not to choose any option.
+5:-Course plan--related operations 
+<br/>
+6:-View the Day wise update of every batch.
+<br/>
+7:-Generate Reports for every batch.
+<br/>
+8:-not to choose any option.
 
 faculty can perform -
 1:-View the Course Plan
