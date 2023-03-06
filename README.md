@@ -1,11 +1,12 @@
 # -diligent-quiet-9486
-Course monitoring -System
-ther is two users in this System
+<h2>Course monitoring -System<h2/>
+<h4>There is two users in this System<h4/>
 1. Adminstrator
 2. faculty
 
 
-Admin can performe these task :-
+<h2>Admin can performe these task :-<h2/>
+  <br/>
 1:-course-related operations 
 <br/>
 2:-batch-related operations 
@@ -22,12 +23,16 @@ Admin can performe these task :-
 <br/>
 8:-not to choose any option.
 
-faculty can perform -
+<h2>faculty can perform -<h2/>
+  <br/>
 1:-View the Course Plan
+  <br/>
 2:-Fill up the day wise planner. 
+  <br/>
 3:-Update his/her password.
+  <br/>
 
-tech stack :- 
+<h2>Tech Stack :- <h2/>
 sql, java , jdbc
 
 <br/>
