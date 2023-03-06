@@ -21,5 +21,5 @@ sql, java , jdbc
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Nancy8570/adjoining-grain-7989/blob/main/ER-DIAGRAM.png">
+<img  alt="Coding" width="800" src="https://github.com/Nancy8570/adjoining-grain-7989/blob/main/ER-DIAGRAM.png">
 
