@@ -4,7 +4,7 @@ ther is two users in this System
 1. Adminstrator
 2. faculty
 
-============================
+
 Admin can performe these task :-
 1:-course-related operations 
 2:-batch-related operations 
@@ -14,12 +14,12 @@ Admin can performe these task :-
 6:-View the Day wise update of every batch. 
 7:-Generate Reports for every batch.
 8:-not to choose any option.
-===============================
+
 faculty can perform -
 1:-View the Course Plan
 2:-Fill up the day wise planner. 
 3:-Update his/her password.
-=============================
+
 tech :- 
 sql java 
 tools git Mysql sts
